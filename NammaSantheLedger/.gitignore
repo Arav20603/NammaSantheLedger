@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android build folders
+app/build/
+
+# Kotlin/Java generated files
+*.class
+
+# Generated outputs
+/out/
+
+# APKs
+*.apk
+
+# Keystore files
+*.jks
+*.keystore
+*.hprof

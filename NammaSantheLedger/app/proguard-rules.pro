@@ -1,0 +1,1 @@
+-keep class com.namma.santhe.ledger.data.entity.** { *; }
